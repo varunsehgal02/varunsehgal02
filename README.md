@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently studying computer science<br>🌱 I’m currently learning HTML,CSS,JAVA SCRIPT<br>📫 How to reach me varun.sehgal02@gmail.com
+🔭 I’m currently studying computer science<br>🌱 I’m currently learning Mobile Development<br>📫 How to reach me varun.sehgal02@gmail.com
 
 
 ## 🌐 Socials:
