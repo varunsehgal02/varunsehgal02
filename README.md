@@ -1,6 +1,4 @@
-<div align="center">
-<img src="" align="center" style="width: 100%" />
-</div>  
+
   
 
 ### <div align="center">I'm Varun, a full-time full-stack developer 👨‍💻 </div>  
