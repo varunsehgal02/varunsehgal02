@@ -42,6 +42,11 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=varunsehgal02&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
+---
+
+## 🐍 Contribution Snake (GitHub Activity)
+
+![snake gif](https://github.com/varunsehgal02/varunsehgal02/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
