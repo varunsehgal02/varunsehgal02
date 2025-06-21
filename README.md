@@ -17,8 +17,8 @@
 ## 🌐 Connect with me:
 
 <p align="left">
-  <a href="https://www.instagram.com/varunsehgal02/" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" height="40" /></a>
-  <a href="https://www.linkedin.com/in/varunsehgal02/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40" /></a>
+  <a href="https://www.instagram.com/varunsehgal02/" target="_blank"><img title="Instagram" src="https://skillicons.dev/icons?i=instagram" alt="Instagram" height="40"/></a>
+  <a href="https://www.linkedin.com/in/varunsehgal02/" target="_blank"><img title="LinkedIn" src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40"/></a>
 </p>
 
 ---
@@ -26,7 +26,28 @@
 ## 💻 Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,mongodb,python,java,aws,azure,docker,git,github,gitlab,figma,vue,vite,sass,threejs,canva" />
+  <a><img title="HTML5" src="https://skillicons.dev/icons?i=html" height="40"/></a>
+  <a><img title="CSS3" src="https://skillicons.dev/icons?i=css" height="40"/></a>
+  <a><img title="JavaScript" src="https://skillicons.dev/icons?i=js" height="40"/></a>
+  <a><img title="React" src="https://skillicons.dev/icons?i=react" height="40"/></a>
+  <a><img title="Next.js" src="https://skillicons.dev/icons?i=nextjs" height="40"/></a>
+  <a><img title="Node.js" src="https://skillicons.dev/icons?i=nodejs" height="40"/></a>
+  <a><img title="Express.js" src="https://skillicons.dev/icons?i=express" height="40"/></a>
+  <a><img title="MongoDB" src="https://skillicons.dev/icons?i=mongodb" height="40"/></a>
+  <a><img title="Python" src="https://skillicons.dev/icons?i=python" height="40"/></a>
+  <a><img title="Java" src="https://skillicons.dev/icons?i=java" height="40"/></a>
+  <a><img title="AWS" src="https://skillicons.dev/icons?i=aws" height="40"/></a>
+  <a><img title="Azure" src="https://skillicons.dev/icons?i=azure" height="40"/></a>
+  <a><img title="Docker" src="https://skillicons.dev/icons?i=docker" height="40"/></a>
+  <a><img title="Git" src="https://skillicons.dev/icons?i=git" height="40"/></a>
+  <a><img title="GitHub" src="https://skillicons.dev/icons?i=github" height="40"/></a>
+  <a><img title="GitLab" src="https://skillicons.dev/icons?i=gitlab" height="40"/></a>
+  <a><img title="Figma" src="https://skillicons.dev/icons?i=figma" height="40"/></a>
+  <a><img title="Vue.js" src="https://skillicons.dev/icons?i=vue" height="40"/></a>
+  <a><img title="Vite" src="https://skillicons.dev/icons?i=vite" height="40"/></a>
+  <a><img title="SASS" src="https://skillicons.dev/icons?i=sass" height="40"/></a>
+  <a><img title="Three.js" src="https://skillicons.dev/icons?i=threejs" height="40"/></a>
+  <a><img title="Canva" src="https://skillicons.dev/icons?i=canva" height="40"/></a>
 </p>
 
 ---
@@ -49,7 +70,11 @@
 
 ## 🔝 Top Contributed Repo
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=varunsehgal02&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<p align="center">
+  <a href="https://github.com/varunsehgal02" title="Click to see full GitHub Activity Graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=varunsehgal02&theme=react-dark" alt="GitHub Activity Graph"/>
+  </a>
+</p>
 
 ---
 
