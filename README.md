@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Varun+Sehgal!;MERN+Stack+Developer+%7C+Mobile+App+Enthusiast;Let’s+Build+Cool+Stuff+Together+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Varun+Sehgal!;MERN+Stack+Developer+%7C+Mobile+App;Let’s+Build+Cool+Stuff+Together+%F0%9F%9A%80" />
 </p>
 
 <h3 align="center">A Passionate MERN Stack Developer & Mobile App Enthusiast 🚀</h3>
@@ -14,17 +14,11 @@
 
 ---
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=varunsehgal02&label=Profile+Views&color=0e75b6&style=flat" alt="varunsehgal02" />
-</p>
-
----
-
 ## 🌐 Connect with me:
 
 <p align="left">
-  <a href="https://www.instagram.com/varunsehgal02/" target="_blank"><img title="Instagram" src="https://skillicons.dev/icons?i=instagram" height="40"/></a>
-  <a href="https://www.linkedin.com/in/varunsehgal02/" target="_blank"><img title="LinkedIn" src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
+  <a href="https://www.instagram.com/varunsehgal02/" target="_blank"><img title="Instagram" src="https://skillicons.dev/icons?i=instagram" alt="Instagram" height="40"/></a>
+  <a href="https://www.linkedin.com/in/varunsehgal02/" target="_blank"><img title="LinkedIn" src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40"/></a>
 </p>
 
 ---
@@ -58,23 +52,6 @@
 
 ---
 
-## 📚 Currently Learning
-
-- 📱 React Native & Flutter (Mobile Development)
-- ☁️ AWS & Cloud Architecture
-- 🧠 AI Tools & Prompt Engineering
-- 🎨 Advanced UI/UX in Figma
-
----
-
-## 🚀 Featured Projects
-
-- [🎵 Music Jam App](https://github.com/varunsehgal02/music-jam) – Real-time music syncing & lyrics powered by Spotify API
-- [🌦️ Weather Web](https://github.com/varunsehgal02/Weather_Web) – A sleek weather app built with HTML, CSS, JS
-- [🧮 Calculator](https://github.com/varunsehgal02/CALCULATOR) – A clean and responsive calculator in JS
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -88,15 +65,26 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=varunsehgal02&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
----
-
-![Code Time](https://img.shields.io/endpoint?url=https://codetime-api.davidhu.io/api/badge?user=varunsehgal02&project=Total&theme=tokyonight)
 
 ---
 
-## 📈 GitHub Metrics
+## 🔝 Top Contributed Repo
 
-> **Note:** You must generate your own SVG with [https://github.com/lowlighter/metrics](https://github.com/lowlighter/metrics)
+<p align="center">
+  <a href="https://github.com/varunsehgal02" title="Click to see full GitHub Activity Graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=varunsehgal02&theme=react-dark" alt="GitHub Activity Graph"/>
+  </a>
+</p>
 
-```md
-![Metrics](https://github.com/varunsehgal02/varunsehgal02/blob/main/github-metrics.svg)
+---
+
+## 💬 Quote
+
+> “First, solve the problem. Then, write the code.” – John Johnson
+
+---
+
+<p align="center">💖 Thank you for visiting my GitHub Profile!</p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Happy+Coding!;Keep+Building+Cool+Stuff!;Follow+for+more+%F0%9F%91%80" alt="Typing SVG" />
+</p>
