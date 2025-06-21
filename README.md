@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Varun+Sehgal!;MERN+Stack+Developer+%7C+Mobile+App+Enthusiast;Let’s+Build+Cool+Stuff+Together+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Varun+Sehgal!;MERN+Stack+Developer+%7C+Mobile+App;Let’s+Build+Cool+Stuff+Together+%F0%9F%9A%80" />
 </p>
 
 <h3 align="center">A Passionate MERN Stack Developer & Mobile App Enthusiast 🚀</h3>
