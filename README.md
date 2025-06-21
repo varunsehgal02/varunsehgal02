@@ -44,9 +44,10 @@
 
 ---
 
-## 🐍 Contribution Snake (GitHub Activity)
+## 🐍 Contribution Snake
 
 ![snake gif](https://github.com/varunsehgal02/varunsehgal02/blob/output/github-contribution-grid-snake.svg)
+
 
 ---
 
