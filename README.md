@@ -45,6 +45,7 @@
   <a><img title="Git" src="https://skillicons.dev/icons?i=git" height="40"/></a>
   <a><img title="GitHub" src="https://skillicons.dev/icons?i=github" height="40"/></a>
   <a><img title="GitLab" src="https://skillicons.dev/icons?i=gitlab" height="40"/></a>
+  <a><img title="Bitbucket" src="https://skillicons.dev/icons?i=bitbucket" height="40"/></a>
   <a><img title="Figma" src="https://skillicons.dev/icons?i=figma" height="40"/></a>
   <a><img title="Vue.js" src="https://skillicons.dev/icons?i=vue" height="40"/></a>
   <a><img title="Vite" src="https://skillicons.dev/icons?i=vite" height="40"/></a>
