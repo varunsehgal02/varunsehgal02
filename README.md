@@ -36,6 +36,9 @@
   <a><img title="MongoDB" src="https://skillicons.dev/icons?i=mongodb" height="40"/></a>
   <a><img title="Python" src="https://skillicons.dev/icons?i=python" height="40"/></a>
   <a><img title="Java" src="https://skillicons.dev/icons?i=java" height="40"/></a>
+  <a><img title="C" src="https://skillicons.dev/icons?i=c" height="40"/></a>
+  <a><img title="C++" src="https://skillicons.dev/icons?i=cpp" height="40"/></a>
+  <a><img title="SQL" src="https://skillicons.dev/icons?i=mysql" height="40"/></a>
   <a><img title="AWS" src="https://skillicons.dev/icons?i=aws" height="40"/></a>
   <a><img title="Azure" src="https://skillicons.dev/icons?i=azure" height="40"/></a>
   <a><img title="Docker" src="https://skillicons.dev/icons?i=docker" height="40"/></a>
