@@ -17,7 +17,7 @@
 ## 🌐 Connect with me:
 
 <p align="left">
-  <a href="https://www.instagram.com/varunsehgal02/" target="_blank"><img title="Instagram" src="https://skillicons.dev/icons?i=instagram" alt="Instagram" height="40"/></a>
+  <a href="https://www.instagram.com/_varun.sehgal/" target="_blank"><img title="Instagram" src="https://skillicons.dev/icons?i=instagram" alt="Instagram" height="40"/></a>
   <a href="https://www.linkedin.com/in/varunsehgal02/" target="_blank"><img title="LinkedIn" src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40"/></a>
 </p>
 
