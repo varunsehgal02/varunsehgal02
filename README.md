@@ -24,36 +24,55 @@
 
 ---
 
-## 💻 Tech Stack & Design Tools
+## 💻 Tech Stack & Design Tools (Badges)
 
 <p align="left">
   <!-- Frontend -->
-  <a><img title="HTML5" src="https://skillicons.dev/icons?i=html" height="40"/></a>
-  <a><img title="CSS3" src="https://skillicons.dev/icons?i=css" height="40"/></a>
-  <a><img title="JavaScript" src="https://skillicons.dev/icons?i=js" height="40"/></a>
-  <a><img title="React" src="https://skillicons.dev/icons?i=react" height="40"/></a>
-  <a><img title="Next.js" src="https://skillicons.dev/icons?i=nextjs" height="40"/></a>
-  <a><img title="Tailwind CSS" src="https://skillicons.dev/icons?i=tailwind" height="40"/></a>
-  <a><img title="Bootstrap" src="https://skillicons.dev/icons?i=bootstrap" height="40"/></a>
-  <a><img title="Chakra UI" src="https://avatars.githubusercontent.com/u/54212428?s=280&v=4" height="40"/></a>
-  <a><img title="Material UI" src="https://skillicons.dev/icons?i=mui" height="40"/></a>
-  <a><img title="SASS/SCSS" src="https://skillicons.dev/icons?i=sass" height="40"/></a>
-  <a><img title="Three.js" src="https://skillicons.dev/icons?i=threejs" height="40"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="30"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="30"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="30"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" height="30"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" height="30"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" height="30"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" height="30"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Chakra_UI-319795?style=for-the-badge&logo=chakraui&logoColor=white" height="30"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Material_UI-0081CB?style=for-the-badge&logo=mui&logoColor=white" height="30"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white" height="30"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white" height="30"/></a>
 
   <!-- Design/UIUX -->
-  <a href="https://www.figma.com/" target="_blank"><img title="Figma" src="https://skillicons.dev/icons?i=figma" height="40"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" height="30"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Adobe_XD-FF61F6?style=for-the-badge&logo=adobexd&logoColor=white" height="30"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Canva-20C997?style=for-the-badge&logo=canva&logoColor=white" height="30"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" height="30"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white" height="30"/></a>
 
-  <!-- Canva & Adobe XD Badges -->
-  <a href="https://www.canva.com/" target="_blank">
-    <img title="Canva" src="https://img.shields.io/badge/Canva-20C997?style=for-the-badge&logo=canva&logoColor=white" height="30"/>
-  </a>
-  <a href="https://www.adobe.com/products/xd.html" target="_blank">
-    <img title="Adobe XD" src="https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=adobexd&logoColor=white" height="30"/>
-  </a>
-
-  <a href="https://www.adobe.com/products/photoshop.html" target="_blank"><img title="Photoshop" src="https://skillicons.dev/icons?i=photoshop" height="40"/></a>
-  <a href="https://www.adobe.com/products/illustrator.html" target="_blank"><img title="Illustrator" src="https://skillicons.dev/icons?i=illustrator" height="40"/></a>
+  <!-- UX/UI Concepts -->
+  <a href="#"><img src="https://img.shields.io/badge/Responsive_Design-0ABAB5?style=for-the-badge" height="30"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Wireframing-FFB800?style=for-the-badge" height="30"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Prototyping-7D5FFF?style=for-the-badge" height="30"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Design_Systems-00C2FF?style=for-the-badge" height="30"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Style_Guides-FF6B6B?style=for-the-badge" height="30"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/User_Research-FF4B2B?style=for-the-badge" height="30"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/User_Flows-0ABAB5?style=for-the-badge" height="30"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Journey_Mapping-FFB800?style=for-the-badge" height="30"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Interaction_Design-7D5FFF?style=for-the-badge" height="30"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Accessibility-WCAG%2FARIA-00C2FF?style=for-the-badge" height="30"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Color_Theory-FF6B6B?style=for-the-badge" height="30"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Typography-FF4B2B?style=for-the-badge" height="30"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Iconography-0ABAB5?style=for-the-badge" height="30"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Micro-Interactions-FFB800?style=for-the-badge" height="30"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Motion_Design-7D5FFF?style=for-the-badge" height="30"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Framer_Motion-0ABAB5?style=for-the-badge&logo=framer&logoColor=white" height="30"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/GSAP-FF6B6B?style=for-the-badge" height="30"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Lottie_Animations-FF4B2B?style=for-the-badge" height="30"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" height="30"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black" height="30"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Babel-F9DC3E?style=for-the-badge&logo=babel&logoColor=black" height="30"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="30"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="30"/></a>
 </p>
+
 
 ---
 
