@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently pursuing **B.Tech in Computer Science**
 - 🌱 I’m currently learning **Advanced Frontend Development & UI/UX Design**
-- 💬 Ask me about **React, Next.js, Tailwind, Figma, Responsive Design**
+- 💬 Ask me about **React, Next.js, Tailwind, Chakra UI, Figma, Adobe XD, Canva, Responsive Design**
 - 📫 How to reach me: **varunsehgal02@gmail.com**
 - ⚡ Fun fact: *“I turn ideas into interactive interfaces 💻”*
 
@@ -24,41 +24,28 @@
 
 ---
 
-## 💻 Tech Stack & Skills
-
-### Frontend Development:
-<p>
-  <img title="HTML5" src="https://skillicons.dev/icons?i=html" height="40"/>
-  <img title="CSS3" src="https://skillicons.dev/icons?i=css" height="40"/>
-  <img title="JavaScript" src="https://skillicons.dev/icons?i=js" height="40"/>
-  <img title="React" src="https://skillicons.dev/icons?i=react" height="40"/>
-  <img title="Next.js" src="https://skillicons.dev/icons?i=nextjs" height="40"/>
-  <img title="Tailwind" src="https://skillicons.dev/icons?i=tailwind" height="40"/>
-  <img title="Bootstrap" src="https://skillicons.dev/icons?i=bootstrap" height="40"/>
-  <img title="Material UI" src="https://skillicons.dev/icons?i=mui" height="40"/>
-  <img title="Chakra UI" src="https://skillicons.dev/icons?i=chakraui" height="40"/>
-  <img title="Styled Components" src="https://skillicons.dev/icons?i=styledcomponents" height="40"/>
-  <img title="SASS" src="https://skillicons.dev/icons?i=sass" height="40"/>
-  <img title="Three.js" src="https://skillicons.dev/icons?i=threejs" height="40"/>
-  <img title="Vite" src="https://skillicons.dev/icons?i=vite" height="40"/>
-  <img title="Webpack" src="https://skillicons.dev/icons?i=webpack" height="40"/>
-  <img title="Git" src="https://skillicons.dev/icons?i=git" height="40"/>
-  <img title="GitHub" src="https://skillicons.dev/icons?i=github" height="40"/>
-</p>
-
-### UI/UX & Design:
-<p>
-  <img title="Figma" src="https://skillicons.dev/icons?i=figma" height="40"/>
-  <img title="Canva" src="https://skillicons.dev/icons?i=canva" height="40"/>
-  <img title="Adobe XD" src="https://skillicons.dev/icons?i=adobexd" height="40"/>
-  <img title="Photoshop" src="https://skillicons.dev/icons?i=photoshop" height="40"/>
-  <img title="Illustrator" src="https://skillicons.dev/icons?i=illustrator" height="40"/>
-</p>
-
+## 💻 Tech Stack & Design Tools
 
 <p align="left">
-  <b>Design Skills:</b><br>
-  Wireframing, Prototyping (low-fi & high-fi), Design Systems / Style Guides, Information Architecture, User Research, User Flows / Journey Mapping, Interaction Design, Accessibility (WCAG, ARIA), Color Theory, Typography, Iconography, Micro-interactions / Motion Design
+  <!-- Frontend -->
+  <a><img title="HTML5" src="https://skillicons.dev/icons?i=html" height="40"/></a>
+  <a><img title="CSS3" src="https://skillicons.dev/icons?i=css" height="40"/></a>
+  <a><img title="JavaScript" src="https://skillicons.dev/icons?i=js" height="40"/></a>
+  <a><img title="React" src="https://skillicons.dev/icons?i=react" height="40"/></a>
+  <a><img title="Next.js" src="https://skillicons.dev/icons?i=nextjs" height="40"/></a>
+  <a><img title="Tailwind CSS" src="https://skillicons.dev/icons?i=tailwind" height="40"/></a>
+  <a><img title="Bootstrap" src="https://skillicons.dev/icons?i=bootstrap" height="40"/></a>
+  <a><img title="Chakra UI" src="https://avatars.githubusercontent.com/u/54212428?s=280&v=4" height="40"/></a>
+  <a><img title="Material UI" src="https://skillicons.dev/icons?i=mui" height="40"/></a>
+  <a><img title="SASS/SCSS" src="https://skillicons.dev/icons?i=sass" height="40"/></a>
+  <a><img title="Three.js" src="https://skillicons.dev/icons?i=threejs" height="40"/></a>
+
+  <!-- Design/UIUX -->
+  <a><img title="Figma" src="https://skillicons.dev/icons?i=figma" height="40"/></a>
+  <a><img title="Adobe XD" src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Adobe_XD_CC_icon.svg" height="40"/></a>
+  <a><img title="Canva" src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Canva_Logo.png" height="40"/></a>
+  <a><img title="Photoshop" src="https://skillicons.dev/icons?i=photoshop" height="40"/></a>
+  <a><img title="Illustrator" src="https://skillicons.dev/icons?i=illustrator" height="40"/></a>
 </p>
 
 ---
