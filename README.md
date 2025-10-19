@@ -41,11 +41,18 @@
   <a><img title="Three.js" src="https://skillicons.dev/icons?i=threejs" height="40"/></a>
 
   <!-- Design/UIUX -->
-  <a><img title="Figma" src="https://skillicons.dev/icons?i=figma" height="40"/></a>
-  <a><img title="Adobe XD" src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Adobe_XD_CC_icon.svg" height="40"/></a>
-  <a><img title="Canva" src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Canva_Logo.png" height="40"/></a>
-  <a><img title="Photoshop" src="https://skillicons.dev/icons?i=photoshop" height="40"/></a>
-  <a><img title="Illustrator" src="https://skillicons.dev/icons?i=illustrator" height="40"/></a>
+  <a href="https://www.figma.com/" target="_blank"><img title="Figma" src="https://skillicons.dev/icons?i=figma" height="40"/></a>
+
+  <!-- Canva & Adobe XD Badges -->
+  <a href="https://www.canva.com/" target="_blank">
+    <img title="Canva" src="https://img.shields.io/badge/Canva-20C997?style=for-the-badge&logo=canva&logoColor=white" height="30"/>
+  </a>
+  <a href="https://www.adobe.com/products/xd.html" target="_blank">
+    <img title="Adobe XD" src="https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=adobexd&logoColor=white" height="30"/>
+  </a>
+
+  <a href="https://www.adobe.com/products/photoshop.html" target="_blank"><img title="Photoshop" src="https://skillicons.dev/icons?i=photoshop" height="40"/></a>
+  <a href="https://www.adobe.com/products/illustrator.html" target="_blank"><img title="Illustrator" src="https://skillicons.dev/icons?i=illustrator" height="40"/></a>
 </p>
 
 ---
