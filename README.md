@@ -17,26 +17,54 @@
 ## 🌐 Connect with me:
 
 <p align="left">
-  <a href="https://www.instagram.com/_varun.sehgal/" target="_blank"><img title="Instagram" src="https://skillicons.dev/icons?i=instagram" alt="Instagram" height="40"/></a>
+  <a href="https://www.instagram.com/varun_sehgal_2005/" target="_blank"><img title="Instagram" src="https://skillicons.dev/icons?i=instagram" alt="Instagram" height="40"/></a>
   <a href="https://www.linkedin.com/in/varunsehgal02/" target="_blank"><img title="LinkedIn" src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40"/></a>
   <a href="https://dribbble.com/varunsehgal02" target="_blank"><img title="Dribbble" src="https://skillicons.dev/icons?i=dribbble" alt="Dribbble" height="40"/></a>
 </p>
 
 ---
 
-## 💻 Tech Stack & Tools
+## 💻 Tech Stack & Skills
 
 <p align="left">
+  <!-- Frontend Development -->
+  <b>Frontend Development:</b><br>
   <a><img title="HTML5" src="https://skillicons.dev/icons?i=html" height="40"/></a>
   <a><img title="CSS3" src="https://skillicons.dev/icons?i=css" height="40"/></a>
   <a><img title="JavaScript" src="https://skillicons.dev/icons?i=js" height="40"/></a>
-  <a><img title="React" src="https://skillicons.dev/icons?i=react" height="40"/></a>
+  <a><img title="React.js" src="https://skillicons.dev/icons?i=react" height="40"/></a>
   <a><img title="Next.js" src="https://skillicons.dev/icons?i=nextjs" height="40"/></a>
   <a><img title="Tailwind CSS" src="https://skillicons.dev/icons?i=tailwind" height="40"/></a>
+  <a><img title="Bootstrap" src="https://skillicons.dev/icons?i=bootstrap" height="40"/></a>
+  <a><img title="Material UI" src="https://skillicons.dev/icons?i=mui" height="40"/></a>
+  <a><img title="Chakra UI" src="https://skillicons.dev/icons?i=chakraui" height="40"/></a>
+  <a><img title="Ant Design" src="https://skillicons.dev/icons?i=antdesign" height="40"/></a>
+  <a><img title="Styled Components" src="https://skillicons.dev/icons?i=styledcomponents" height="40"/></a>
+  <a><img title="SASS" src="https://skillicons.dev/icons?i=sass" height="40"/></a>
+  <a><img title="Framer Motion" src="https://skillicons.dev/icons?i=framer" height="40"/></a>
+  <a><img title="GSAP" src="https://skillicons.dev/icons?i=gsap" height="40"/></a>
+  <a><img title="Lottie" src="https://skillicons.dev/icons?i=lottie" height="40"/></a>
+  <a><img title="Three.js" src="https://skillicons.dev/icons?i=threejs" height="40"/></a>
+  <a><img title="Vite" src="https://skillicons.dev/icons?i=vite" height="40"/></a>
+  <a><img title="Webpack" src="https://skillicons.dev/icons?i=webpack" height="40"/></a>
+  <a><img title="Git" src="https://skillicons.dev/icons?i=git" height="40"/></a>
+  <a><img title="GitHub" src="https://skillicons.dev/icons?i=github" height="40"/></a>
+</p>
+
+<p align="left">
+  <!-- UI/UX & Design -->
+  <b>UI/UX & Design:</b><br>
   <a><img title="Figma" src="https://skillicons.dev/icons?i=figma" height="40"/></a>
   <a><img title="Canva" src="https://skillicons.dev/icons?i=canva" height="40"/></a>
-  <a><img title="SASS" src="https://skillicons.dev/icons?i=sass" height="40"/></a>
-  <a><img title="Three.js" src="https://skillicons.dev/icons?i=threejs" height="40"/></a>
+  <a><img title="Adobe XD" src="https://skillicons.dev/icons?i=adobexd" height="40"/></a>
+  <a><img title="Sketch" src="https://skillicons.dev/icons?i=sketch" height="40"/></a>
+  <a><img title="Photoshop" src="https://skillicons.dev/icons?i=photoshop" height="40"/></a>
+  <a><img title="Illustrator" src="https://skillicons.dev/icons?i=illustrator" height="40"/></a>
+</p>
+
+<p align="left">
+  <b>Design Skills:</b><br>
+  Wireframing, Prototyping (low-fi & high-fi), Design Systems / Style Guides, Information Architecture, User Research, User Flows / Journey Mapping, Interaction Design, Accessibility (WCAG, ARIA), Color Theory, Typography, Iconography, Micro-interactions / Motion Design
 </p>
 
 ---
